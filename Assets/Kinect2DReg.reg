@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SoraArt\Unity2DPerson]
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
