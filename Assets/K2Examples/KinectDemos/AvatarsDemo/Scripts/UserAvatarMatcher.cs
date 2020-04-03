@@ -66,6 +66,8 @@ public class UserAvatarMatcher : MonoBehaviour
 					GameObject avatarObj = CreateUserAvatar(userId, userIndex);
 
 					alUserAvatars[userId] = avatarObj;
+
+					AudioManager.instance.PlayBornSound();
 				}
 			}
 
